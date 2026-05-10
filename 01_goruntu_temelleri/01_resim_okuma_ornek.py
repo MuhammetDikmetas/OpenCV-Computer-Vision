@@ -1,3 +1,4 @@
+
 import cv2
  
 orijinal_resim=cv2.imread("veri/sokak.jpg",0)
