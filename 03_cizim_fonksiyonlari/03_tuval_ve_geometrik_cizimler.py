@@ -21,7 +21,7 @@ cv2.rectangle(canvas, (50, 50), (150, 150), (0, 255, 0), thickness=-1)
 # Çember çizimi (Merkez: 255,255 - Yarıçap: 100 - Renk: Kırmızı - İçi dolu)
 cv2.circle(canvas, (255, 255), 100, (0, 0, 255), thickness=-1)
 
-# Manuel üçgen çizimi için köşe koordinatlarını tanımlıyoruz
+# Manuel üçgen çizimi için köşe koordinatlarını tanımlıyoruz.
 p1 = (100, 200)
 p2 = (50, 50)
 p3 = (300, 100)
